@@ -56,7 +56,7 @@
 
 > -mir-  :  abmirable  令人敬佩的    abmire  敬佩  marvel 奇迹
 >
-> -fort- : comfort (安慰 舒适)  comfortable(舒服的) discomfort(使不安 使不愉快)) / effort(努力)/effortless(容易的，不费力气的) / force v 武力 强迫 / workforce 劳动力
+> -fort- : comfort (安慰 舒适)  comfortable(舒服的) discomfort(使不安 使不愉快)) / effort(努力)/effortless(容易的，不费力气的) / force v 武力 强迫 / workforce 劳动力/airforce 空军
 >
 > -lieve- : unbelievable  难以置信的  / believe 相信/belief 信条  信念
 
