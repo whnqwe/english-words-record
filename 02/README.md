@@ -1,13 +1,20 @@
-| un-            | 否定前缀（形容词） | unable           |
-| -------------- | --------- | ---------------- |
-| dis-           | 否定前缀（动词）  | disabled         |
-| -ility         | 名词后缀      | ability          |
-| -able  -ible   | 形容词后缀     |                  |
-| -mir-  -mar-   | 惊奇        | admirable        |
-| -el            | 名词后缀      | marvel           |
-| -or            | 名词后缀      | mirror（镜子）       |
-| -acle          | 名词后缀      | miracle (奇迹)     |
-| -fort-  -forc- | 力量        | comfortable(舒服的) |
+| un-            | 否定前缀（形容词） | unable                   |
+| -------------- | ------------------ | ------------------------ |
+| dis-           | 否定前缀（动词）   | disabled                 |
+| -ility         | 名词后缀           | ability                  |
+| -able  -ible   | 形容词后缀         |                          |
+| -mir-  -mar-   | 惊奇               | admirable                |
+| -el            | 名词后缀           | marvel                   |
+| -or            | 名词后缀           | mirror（镜子）           |
+| -acle          | 名词后缀           | miracle (奇迹)           |
+| -fort-  -forc- | 力量               | comfortable(舒服的)      |
+| -cred-         | 相信               | credit                   |
+| im-            | 否定前缀           | impossible               |
+| -poss-         | 能，能够           | impossible               |
+| -ibility       | 名词词尾           | possibility(可能 可能性) |
+| -pot-          | 能，能够           | potential                |
+| -ent           | 形容词后缀         | potential                |
+| -ial           | 形容词后缀         | potential                |
 
 
 
@@ -28,6 +35,8 @@
 > -fort- :  effortless(容易的 不费力气的)  / comfort (安慰 舒适) / discomfort （使不安）/ force v 武力 强迫/ workforce 劳动力
 
 
+
+> -cred- : credit  incredible(难以置信的)
 
 ### 与able相关的基础词汇
 
@@ -225,3 +234,42 @@ unbelievable
 
 
 
+incredible
+
+> in + cred +ible 
+>
+> > 难以置信的
+
+
+
+impossible
+
+> 不可能的
+>
+> im + poss + ible
+>
+> > possible
+> >
+> > poss + ible
+> >
+> > 可能的
+> >
+> > >  possibility
+> > >
+> > > poss  + ibility
+> > >
+> > > 可能 可能性
+> >
+> > possibly
+> >
+> > > poss + ible + ly
+> > >
+> > > 尽可能地
+> >
+> > potential
+> >
+> > > pot+ent+ial
+> > >
+> > > adj 潜在的 可能的  
+> > >
+> > > n 潜力 潜能 
