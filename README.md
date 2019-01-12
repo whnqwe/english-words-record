@@ -37,6 +37,8 @@
 > com: compass/comfort(安慰舒适)/comfortable(舒服的)
 >
 > in-  im- : incredible（难以置信的） impossible（不可能的）
+>
+> pro-:provide  process(进程)
 
 
 
@@ -57,6 +59,10 @@
 | -poss-          | 能 能够 | im+poss+ible                     | 不可能的   | 02   |
 | -sess-          | 坐      | poss + sess                      | 拥有，占有 | 99   |
 | -pot-           | 能够    | pot + ent +ial                   | 潜在的     | 02   |
+| -du-            | 双      | du+plic+ate                      | v.复制     | 99   |
+| -plic-          | 折叠    | du+plic+ate                      | v.复制     | 99   |
+| -mun-           | 公共    | com+mun+ity                      | n.社区     | 99   |
+| -cess           | 行走    | pro+cess                         | n.进程     | 99   |
 
 
 
@@ -94,6 +100,8 @@
 | -ion         | 名词后缀               | poss+(s)ess+ion | 所有权             | 99   |
 | -ibility     | 名词后缀               | poss+ibility    | 可能，可能性       | 02   |
 | -ly          | 副词后缀               | poss +ible+ly   | 可能地             | 02   |
+| -ate         | 动词后缀               | du+plic+ate     | 复制               | 99   |
+| -ity         | 名词后缀               | com+mun+ity     | n.社区，社团       | 99   |
 
 > -able: enjoyable(愉快的)/reasonable(合乎情理的)/changable(易变的,变化无常的)/comfortable/admirable
 >
